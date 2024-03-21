@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://blog.noncrossing.com/sitemap.xml
